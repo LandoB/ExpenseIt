@@ -22,6 +22,7 @@ namespace ExpenseIt
     {
         public ExpenseReportPage()
         {
+            // Need to initialize the constructor so data can be shown in the form. 
             InitializeComponent();
         }
 

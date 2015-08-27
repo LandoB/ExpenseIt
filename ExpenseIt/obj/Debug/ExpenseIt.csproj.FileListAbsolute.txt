@@ -16,3 +16,4 @@ C:\Users\Rolando\Documents\GitHub\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.Proper
 C:\Users\Rolando\Documents\GitHub\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.Cache
 C:\Users\Rolando\Documents\GitHub\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.exe
 C:\Users\Rolando\Documents\GitHub\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.pdb
+C:\Users\Rolando\Documents\GitHub\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csprojResolveAssemblyReference.cache
